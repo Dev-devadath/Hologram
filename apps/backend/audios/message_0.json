@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "soundFile": "G:\\Programing\\Hologram\\talking-avatar-with-ai\\apps\\backend\\audios\\message_0.wav",
+    "duration": 3.68
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.36, "value": "C" },
+    { "start": 0.36, "end": 0.70, "value": "X" },
+    { "start": 0.70, "end": 0.85, "value": "B" },
+    { "start": 0.85, "end": 1.00, "value": "F" },
+    { "start": 1.00, "end": 1.02, "value": "A" },
+    { "start": 1.02, "end": 1.09, "value": "B" },
+    { "start": 1.09, "end": 1.16, "value": "A" },
+    { "start": 1.16, "end": 1.24, "value": "D" },
+    { "start": 1.24, "end": 1.31, "value": "C" },
+    { "start": 1.31, "end": 1.38, "value": "B" },
+    { "start": 1.38, "end": 1.87, "value": "X" },
+    { "start": 1.87, "end": 1.94, "value": "B" },
+    { "start": 1.94, "end": 2.01, "value": "C" },
+    { "start": 2.01, "end": 2.08, "value": "B" },
+    { "start": 2.08, "end": 2.22, "value": "F" },
+    { "start": 2.22, "end": 2.64, "value": "B" },
+    { "start": 2.64, "end": 2.71, "value": "C" },
+    { "start": 2.71, "end": 2.79, "value": "A" },
+    { "start": 2.79, "end": 2.86, "value": "B" },
+    { "start": 2.86, "end": 2.99, "value": "C" },
+    { "start": 2.99, "end": 3.07, "value": "A" },
+    { "start": 3.07, "end": 3.14, "value": "C" },
+    { "start": 3.14, "end": 3.41, "value": "B" },
+    { "start": 3.41, "end": 3.68, "value": "X" }
+  ]
+}
