@@ -1,4 +1,3 @@
-https://github.com/asanchezyali/talking-avatar-with-ai/assets/29262782/da316db9-6dd1-4475-9fe5-39dafbeb3cc4
 
 ## Digital Human
 
@@ -10,6 +9,7 @@ I have made this Discord channel available: [Math & Code](https://discord.gg/gJ3
 
 The brain of this project is based on Open AI, where the avatar characteristics and the shape of the response are
 defined in the following code fragment:
+https://github.com/asanchezyali/talking-avatar-with-ai/assets/29262782/da316db9-6dd1-4475-9fe5-39dafbeb3cc4
 
 ```js
 import { ChatOpenAI } from "@langchain/openai";
